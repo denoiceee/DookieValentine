@@ -1,7 +1,7 @@
 /* style.css */
 
 body {
-    font-family: 'Poppins', monospace; /* Use Poppins for a cute and modern look, fallback to monospace */
+    font-family: 'Poppins', Georgia, serif; /* Use Poppins for a cute and modern look, fallback to Georgia */
     text-align: center; /* Center-align text */
     margin: 0; /* Remove default margin */
     background-color: #FADADD; /* Set background color to light pink */
@@ -20,7 +20,7 @@ body {
 }
 
 #question {
-    font-family: 'Poppins', monospace; /* Apply Poppins font to the question, fallback to monospace */
+    font-family: 'Poppins', Georgia, serif; /* Apply Poppins font to the question, fallback to Georgia */
     font-size: 52px; /* Set font size for the question */
 }
 
@@ -32,7 +32,7 @@ button {
     padding: 10px 20px; /* Set padding for buttons */
     margin: 0 10px; /* Set margin around buttons */
     font-size: 26px; /* Set font size for buttons */
-    font-family: 'Poppins', monospace; /* Apply Poppins font to the options, fallback to monospace */
+    font-family: 'Poppins', Georgia, serif; /* Apply Poppins font to the options, fallback to Georgia */
     background-color: #FB607F; /* Set button background color */
     color: white; /* Set text color to white */
     border: none; /* Remove button border */
